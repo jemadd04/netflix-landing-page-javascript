@@ -1,0 +1,7 @@
+1. Create HTML template
+  -Put font awesome cdn and link to stylesheet in header
+  -Create showcase area first
+
+2. CSS Styling
+  -Create general styling rules: no margin or padding, border box 
+  -
